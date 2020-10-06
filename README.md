@@ -35,4 +35,3 @@
 <a href="https://medium.com/@dipanshparmar870" target="_blank">   
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium icon" height="30" width="30" />
 </a>
-
