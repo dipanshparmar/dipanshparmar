@@ -1,6 +1,10 @@
 ### Hola 👋, I'm Dipansh Parmar
 <p><b>Developer :coffee:, Programmer :man_office_worker:, Penetration Tester :man_technologist:</b></p>
 
+#### What I'm doing right now
+- I'm learning Java.
+- I'm working on Data Structures & Algorithms
+
 <br/>
 
 #### Some of my skills:
