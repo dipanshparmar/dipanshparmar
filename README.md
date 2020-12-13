@@ -2,7 +2,7 @@
 <p><b>Developer :coffee:, Programmer :man_office_worker:, Penetration Tester :man_technologist:</b></p>
 
 #### What I'm doing right now
-- I'm learning Java.
+- I'm learning Android.
 - I'm working on Data Structures & Algorithms
 
 <br/>
