@@ -1,8 +1,7 @@
 ### Hola 👋, I'm Dipansh Parmar
 <p><b>Developer :coffee:</b></p>
 
-#### What I'm doing right now
-- I'm learning Android.
+#### What I'm doing right now?
 - I'm working on Data Structures & Algorithms
 
 <br/>
