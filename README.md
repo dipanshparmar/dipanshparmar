@@ -2,7 +2,7 @@
 <p><b>Developer :coffee:</b></p>
 
 #### What I'm doing right now?
-- I'm working on Data Structures & Algorithms
+- Reflecting on life? boring huh?
 
 <br/>
 
