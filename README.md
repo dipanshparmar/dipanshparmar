@@ -2,7 +2,7 @@
 <p><b>Developer :coffee:</b></p>
 
 #### What I'm doing right now?
-- Reflecting on life? boring huh?
+- Reflecting on life. boring huh?
 
 <br/>
 
